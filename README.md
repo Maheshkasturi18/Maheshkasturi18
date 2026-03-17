@@ -1,11 +1,9 @@
 # 💫 About Me:
-Hi, I'm Maheshkumar Kasturi!
-<br> 🎓 Education: Bachelor's in Electronics & Telecommunication Engineering, completed in 2023.
-<br> 💻 Internships: Gained hands-on experience as a Frontend Developer Intern at Ntech Global Solutions and as a MERN Stack Developer Intern at WorkVerse—working with technologies like JavaScript, React, Node.js, Express, MongoDB, and AWS.
-<br> 🚀 Experience: Previously worked as a freelance MERN Stack Developer, building scalable and performance-optimized web applications.
-<br> 👨‍💼 Currently: Working as a Junior Frontend Engineer at Swissbake, contributing to high-quality UI development and improving user experiences.
-<br> 🌱 Looking Ahead: I'm eager to join a dynamic team where I can grow, collaborate, and apply my skills to impactful projects.
-<br> 🤝 Let’s Collaborate: Open to exciting opportunities and collaborations—feel free to connect with me through the social links below!
+Hi, I'm Maheshkumar 👋
+<br> I'm a Full-Stack Developer with around 1.5 years of experience working with React, Node.js, and MongoDB.
+<br> I’ve worked on building dashboards, authentication systems, and full-stack applications — handling everything from UI development to API integration and deployment.
+<br> Currently working as a Junior Frontend Engineer, where I focus on building clean, responsive interfaces and improving overall user experience.
+<br> I like building real-world projects and continuously improving my development skills 🚀
 
 
 ## 🌐 Socials:
