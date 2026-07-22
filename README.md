@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I'm Maheshkumar 👋
-- Full-Stack Developer with 1.5+ years of experience in React, Node.js, and MongoDB  
+- Full-Stack Developer with 2 years of professional experience in React, Node.js, and MongoDB  
 - Experienced in building dashboards, authentication systems, and full-stack applications  
 - Skilled in UI development, API integration, and deployment  
 - Currently working as a Junior Frontend Engineer, focusing on responsive and user-friendly interfaces  
