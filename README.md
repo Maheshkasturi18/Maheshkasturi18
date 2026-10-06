@@ -1,10 +1,11 @@
 # 💫 About Me:
 Hi, I'm Maheshkumar 👋
-- Full-Stack Developer with 2 years of professional experience in React, Node.js, and MongoDB  
-- Experienced in building dashboards, authentication systems, and full-stack applications  
-- Skilled in UI development, API integration, and deployment  
-- Currently working as a Jr. Frontend Engineer, focusing on responsive Ui's & APIs.  
-- Passionate about building real-world projects and continuously improving 🚀
+- Full-Stack Engineer with 2 years of professional experience building and supporting production applications
+- Experienced in developing dashboards, business applications, authentication systems, and REST APIs
+- Hands-on experience with end-to-end application development, deployment, maintenance, and performance optimization
+- Worked on AI-powered solutions and automation to streamline business workflows and reduce manual effort
+- Currently working as a Full Stack Engineer, focusing on building reliable and practical solutions for real-world business requirements
+- Always learning, building, and improving 🚀
 
 
 ## 🌐 Socials:
